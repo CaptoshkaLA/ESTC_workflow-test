@@ -1,6 +1,6 @@
 
  # 3D vector lib
- #### Why does it stores
+ #### What does it stores
  This library stores the implementation of a simple 3d vector with a minimal set of functions.
 
  # Functions
