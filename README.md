@@ -1,4 +1,8 @@
 
+ # 3D vector lib
+ #### Why does it stores
+ This library stores the implementation of a simple 3d vector with a minimal set of functions.
+
  # Functions
  #### Addition
 `vectorSum(A1, A2)` returns A1+A2
